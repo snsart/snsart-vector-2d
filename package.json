@@ -1,0 +1,25 @@
+{
+  "name": "snsart-vector-2d",
+  "version": "1.0.0",
+  "description": "vector2d tool",
+  "main": "./dist/Vector2D.js",
+  "scripts": {
+  	"build":"webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snsart/snsart-vector-2d.git"
+  },
+  "author": "snsart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snsart/snsart-vector-2d/issues"
+  },
+  "homepage": "https://github.com/snsart/snsart-vector-2d#readme",
+  "dependencies": {
+    "ts-loader": "^6.2.0",
+    "typescript": "^3.6.4",
+    "webpack": "^4.41.1",
+    "webpack-cli": "^3.3.9"
+  }
+}
